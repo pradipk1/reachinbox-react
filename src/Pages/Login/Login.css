@@ -1,0 +1,136 @@
+
+/* login main container styles */
+
+.loginMain {
+    max-width: 1440px;
+    height: 759px;
+}
+
+
+/* login header styles */
+
+.loginHeader {
+    width: 100%;
+    height: 64px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #25262B
+}
+
+.loginHeader>img {
+    width: 156.77px;
+    height: 24px;
+}
+
+
+/* login middle card styles */
+
+.loginCardMain {
+    width: 100%;
+    height: 663px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginCard {
+    width: 460px;
+    height: 312px;
+    padding: 24px 40px 40px 40px;
+    border: 1px solid #343A40;
+    border-radius: 17px;
+    background: linear-gradient(138.97deg, #111214 5.16%, #121212 105.18%);
+    text-align: center;
+}
+
+.loginWithGoogleCont {
+    width: 380px;
+    height: 103px;
+    margin-bottom: 48px;
+}
+.loginWithGoogleCont>h4 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 31px;
+    margin-bottom: 24px;
+}
+
+.signupWithGoogleBtnCont {
+    width: 100%;
+    height: 48px;
+    border: 1px solid #707172;
+    border-radius: 4px;
+}
+.signupWithGoogleBtnCont>a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: inherit;
+    text-decoration: none;
+}
+.signupWithGoogleBtnCont>a>img {
+    width: 16px;
+    margin-right: 12px;
+}
+.signupWithGoogleBtnCont>a>span {
+    line-height: 26.1px;
+    letter-spacing: -0.30000001192092896px;
+    color: #CCCCCC;
+
+}
+
+.loginCreateAccCont {
+    width: 100%;
+    height: 97px;
+}
+
+.loginCreateAccBtnCont {
+    width: 195px;
+    height: 48px;
+    margin: auto;
+    margin-bottom: 24px;
+}
+.loginCreateAccBtnCont>button {
+    width: 100%;
+    height: 100%;
+    padding: 13px 35px;
+    background: linear-gradient(91.73deg, #4B63DD -2.99%, rgba(5, 36, 191, 0.99) 95.8%);
+    color: inherit;
+    border: 4px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.loginCreateAccCont>p {
+    line-height: 24.8px;
+    color: #909296;
+
+}
+.loginCreateAccCont>p>span {
+    color: #C1C2C5;
+}
+
+/* login footer styles */
+
+.loginFooter {
+    width: 100%;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #121212;
+    border-top: 1px solid #25262B
+}
+
+.loginFooter>p {
+    font-size: 12px;
+    line-height: 18.6px;
+    color: #5C5F66;
+
+}

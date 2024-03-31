@@ -2,14 +2,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Open Sans;
 }
 
 .appLight{
-  background-color: #fff;
-  color: #000;
+  background-color: #FFFFFF;
+  color: #000000;
 }
 
 .appDark {
-  background-color: #000;
-  color: #fff;
+  background-color: #000000;
+  color: #FFFFFF;
 }
