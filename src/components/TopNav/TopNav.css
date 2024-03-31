@@ -1,0 +1,63 @@
+
+.topNavMainCont {
+    width: 1383px;
+    height: 64px;
+    padding: 24px;
+    background-color: #1F1F1F;
+    border-width: 1px 1px 1px 0px;
+    border-style: solid;
+    border-color: #343A40;
+    box-shadow: 0px -186px 120px 0px #2527381A inset;
+    position: absolute;
+    top: 3px;
+    left: 57px;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.topNavTitleCont {
+    height: 22px;
+    margin-left: 32px;
+}
+.topNavTitleCont>p {
+    font-weight: 700;
+    line-height: 21.79px;
+    letter-spacing: -0.02em;
+}
+
+.topNavRightCont {
+    width: 210px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lightModeToggleBtn {
+    width: 51px;
+    height: 24px;
+    padding: 3px 5px 3px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #222426;
+    border: 1px solid #343A40;
+    border-radius: 80px;
+    cursor: pointer;
+}
+
+.workSpaceSelectCont {
+    width: 137px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.workSpaceSelectCont>p {
+    width: 113px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21.7px;
+    cursor: pointer;
+}
