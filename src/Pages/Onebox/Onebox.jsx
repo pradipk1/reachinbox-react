@@ -1,9 +1,13 @@
 import React from 'react';
 import './Onebox.css';
+import SideNav from '../../components/SideNav/SideNav';
 
 function Onebox() {
   return (
-    <div>Onebox</div>
+    <div className='oneboxMainCont'>
+      <SideNav />
+      
+    </div>
   )
 }
 
