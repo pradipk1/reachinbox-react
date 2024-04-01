@@ -19,7 +19,7 @@ function Login() {
                 <div className='loginWithGoogleCont'>
                     <h4>Create a new account</h4>
                     <div className='signupWithGoogleBtnCont'>
-                        <a href='https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=http://localhost:3000/auth'>
+                        <a href='https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://reachinbox-react.netlify.app/auth'>
                             <img src={googleLogo} alt="googleLogo" />
                             <span>Sign Up with Google</span>
                         </a>
