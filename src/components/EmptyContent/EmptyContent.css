@@ -1,0 +1,36 @@
+
+.emptyContentMainCont {
+    width: 1383px;
+    height: 693px;
+    position: absolute;
+    left: 57px;
+    top: 67px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.emptyContentCont {
+    width: 832.3px;
+    height: 392.4px;
+    text-align: center;
+}
+
+.emptyContentImgCont {
+    margin-bottom: 48px;
+}
+.emptyContentImgCont>img {
+    width: 280px;
+    height: 229.4px;
+}
+
+.emptyContentTextCont>h3 {
+    font-size: 24px;
+    line-height: 36.53px;
+    margin-bottom: 24px;
+}
+.emptyContentTextCont>p {
+    font-size: 18px;
+    line-height: 27.4px;
+    color: #9E9E9E;
+}
