@@ -5,3 +5,12 @@
     background-color: #000000;
     position: relative;
 }
+
+
+
+/* light mode styles */
+
+
+.oneboxMainCont-light {
+    background-color: #F4F6F8;
+}

@@ -60,5 +60,15 @@
     font-size: 15px;
     line-height: 18.15px;
     background-color: #054F31;
+    color: #FFFFFF;
     border-radius: 50%;
+}
+
+
+/* light mode styles */
+
+
+.sideNavMainCont-dark {
+    background: #FAFAFA;
+    border-right: 1px solid #D8D8D8;
 }

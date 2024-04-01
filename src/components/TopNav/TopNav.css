@@ -61,3 +61,21 @@
     line-height: 21.7px;
     cursor: pointer;
 }
+
+
+
+/* light mode styles */
+
+
+.topNavMainCont-dark {
+    background-color: #FFFFFF;
+    color: #5B5F66;
+    border-width: 1px 1px 1px 0px;
+    border-style: solid;
+    border-color: #DEDEDE;
+}
+
+.lightModeToggleBtn-dark {
+    background-color: #E9EAEC;
+    border: 1px solid #DADEE1;
+}
